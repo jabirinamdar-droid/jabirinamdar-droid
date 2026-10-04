@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jabir Inamdar</h1>
+[<h1 align="center">Hi 👋, I'm Jabir Inamdar</h1>
 <h3 align="center">🛡️ Cybersecurity Student | Python Developer | Linux Enthusiast</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 ---
 
 ### 🎓 About Me
-- 🏫 **TY BSC Cyber & Data Science — Division H3**
+- 🏫 **TY BSC Cyber & Digital Science **
 - 🛡️ Built **BossGuard** — a Pre-Execution Cyber Threat Analysis Tool
 - 🔍 Interested in **Static Malware Analysis, Network Security, Linux**
 - 🐍 Learning **Python | Networking | Web Security**
@@ -45,3 +45,4 @@
 <p align="center">
   <i>"Security is not a product, but a process." — Bruce Schneier</i>
 </p>
+](https://github.com/jabirinamdar-droid/jabirinamdar-droid/edit/main/README.md)
